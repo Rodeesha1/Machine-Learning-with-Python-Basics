@@ -4,8 +4,11 @@ This repository contains the work completed for ClimateWins to investigate wheth
 
 ## Repository Structure
 data/ # Raw and cleaned weather + answers datasets
+
 scripts/ # Python scripts for each ML model
+
 results/ # Confusion matrices, accuracy results, written report
+
 presentation/ # Final presentation slides (PPTX/PDF)
 
 ## Project Objective
@@ -28,7 +31,7 @@ The objective was to determine if supervised learning models (KNN, Decision Tree
 - Compare supervised vs. unsupervised learning approaches for clustering weather patterns.
 
 ## Presentation
-See [presentation/ClimateWins_Presentation.pdf](presentation/ClimateWins_Presentation.pdf) for a summary of methods, findings, and recommendations.
+file:///C:/Users/user/OneDrive/Documents/Data%20Analysis%20Course/Machine%20Learning/Climate%20Wins/4.%20Sent%20to%20Shareholders/ClimateWins%20Presentation.pdf
 
 ##  Requirements
 Install dependencies with:
