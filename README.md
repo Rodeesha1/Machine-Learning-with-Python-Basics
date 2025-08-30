@@ -33,7 +33,9 @@ The objective was to determine if supervised learning models (KNN, Decision Tree
 ## Presentation
 [file:///C:/Users/user/OneDrive/Documents/Data%20Analysis%20Course/Machine%20Learning/Climate%20Wins/4.%20Sent%20to%20Shareholders/ClimateWins%20Presentation.pdf
 ](https://github.com/Rodeesha1/Machine-Learning-with-Python-Basics/blob/main/ClimateWins%20Presentation.pdf)
+
 youtube link: (https://www.youtube.com/watch?v=VeoaBEmftjc)
+
 ##  Requirements
 Install dependencies with:
 ```bash
