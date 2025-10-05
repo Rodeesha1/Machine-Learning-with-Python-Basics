@@ -19,7 +19,7 @@ The objective was to determine if supervised learning models could accurately pr
 4. Generate possible climate scenarios for the next 25–50 years.  
 5. Locate the safest regions for people to live in Europe under future conditions.
 
-## 🔹 Achievement 1 (Supervised Learning)
+## 🔹 Achievement 1 (Basic Machine Learning)
 **Goal:** Predict "pleasant" vs. "unpleasant" daily weather.  
 
 ## Models Used
@@ -39,7 +39,7 @@ The objective was to determine if supervised learning models could accurately pr
 - Compare supervised vs. unsupervised learning approaches for clustering weather patterns.
 
 
-## 🔹 Achievement 2 (Advanced Machine Learning & Proposal)
+## 🔹 Achievement 2 (Advanced Machine Learning )
 **Goal:** Move beyond supervised learning into advanced ML methods, test unsupervised learning, deep learning, and GANs, then propose a final ClimateWins strategy.  
 
 **Methods Explored**
