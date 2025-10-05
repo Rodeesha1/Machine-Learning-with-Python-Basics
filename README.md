@@ -76,7 +76,7 @@ While all three approaches add value, **Safe Zones** offers the most immediate i
 - **Notebooks:** Contain training code for clustering, GANs, and ensemble safe-zone models.  
 - **Presentation:**
 - [Final ClimateWins ACH1 (PDF)](https://coach-courses-us.s3.amazonaws.com/exercises/1407/68985/c7118d26f34b30e9cc4b0dd4f9353407/ClimateWins-Presentation.pdf)
-- [Final ClimateWins ACH2 (PDF)]([https://coach-courses-us.s3.amazonaws.com/exercises/1413/68985/168e4601986496e52e35f7bdbf3f9cac/ClimateWins-Final-Presentation.pdf)
+- [Final ClimateWins ACH2 (PDF)](https://coach-courses-us.s3.amazonaws.com/exercises/1413/68985/168e4601986496e52e35f7bdbf3f9cac/ClimateWins-Final-Presentation.pdf)
 - **Videos:**  
   - [Achievement 1 Presentation](https://www.youtube.com/watch?v=VeoaBEmftjc)  
   - [Achievement 2 presentation] editing...)  
